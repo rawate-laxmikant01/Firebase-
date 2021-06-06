@@ -59,8 +59,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
+        android:onClick="Login"
         android:background="#51C2F4"
-        android:onClick="logIn_now"
         android:text="Login securely"
         android:textColor="#FDFCFF">
 
